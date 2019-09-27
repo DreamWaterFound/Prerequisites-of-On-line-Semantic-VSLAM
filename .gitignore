@@ -1,0 +1,6 @@
+bin/
+build/
+lib/
+**__pycache__**
+.vscode/
+
